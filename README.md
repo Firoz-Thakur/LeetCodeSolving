@@ -1,7 +1,3 @@
-Here’s a **README** tailored specifically for your **LeetCode** problem-solving repository:
-
----
-
 # Problem Solving with Data Structures and Algorithms - LeetCode
 
 Welcome to the **LeetCode Problem Solving** repository! This repository contains solutions to a variety of problems from **LeetCode**, covering a wide range of topics in **Data Structures** and **Algorithms**. The goal is to enhance problem-solving skills and help you ace technical interviews.
@@ -86,7 +82,3 @@ For any queries or suggestions, feel free to reach out:
 
 - **Name**: Firoz kumar 
 - **LeetCode Profile**: [LeetCode - FirozMars](https://leetcode.com/u/FirozMars/)
-
----
-
-This **README** provides an overview of your LeetCode solutions repository. Let me know if you'd like any additional sections or edits!
