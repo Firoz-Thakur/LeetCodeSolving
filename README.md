@@ -84,7 +84,7 @@ You can choose the programming language that suits your preference.
 
 For any queries or suggestions, feel free to reach out:
 
-- **Name**: Shefali
+- **Name**: Firoz kumar 
 - **LeetCode Profile**: [LeetCode - FirozMars](https://leetcode.com/u/FirozMars/)
 
 ---
