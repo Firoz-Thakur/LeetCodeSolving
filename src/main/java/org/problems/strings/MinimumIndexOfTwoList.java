@@ -41,5 +41,6 @@ public class MinimumIndexOfTwoList {
             j++;
         }
         return finalString.toArray(new String[0]);
+
     }
 }
