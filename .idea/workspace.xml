@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/BuddyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/GreateLatin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
   "keyToString": {
     "Application.AddBinary.executor": "Run",
     "Application.CountBinarySubstrings.executor": "Run",
+    "Application.GreateLatin.executor": "Run",
     "Application.Isomorphic.executor": "Run",
     "Application.KeyWordRow.executor": "Run",
     "Application.Main.executor": "Run",
@@ -57,7 +57,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShortestCompletingWord">
+  <component name="RunManager" selected="Application.GreateLatin">
     <configuration name="CountBinarySubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.strings.CountBinarySubstrings" />
       <module name="ProblemS" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyWordRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.strings.KeyWordRow" />
+    <configuration name="GreateLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.strings.GreateLatin" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreateLatin" />
         <item itemvalue="Application.ShortestCompletingWord" />
         <item itemvalue="Application.CountBinarySubstrings" />
         <item itemvalue="Application.MinimumIndexOfTwoList" />
         <item itemvalue="Application.ReverseString3" />
-        <item itemvalue="Application.KeyWordRow" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +177,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/problems/strings/ShortestCompletingWord.java</url>
           <line>26</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problems/strings/GreateLatin.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
