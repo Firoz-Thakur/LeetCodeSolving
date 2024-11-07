@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/RemoveOnlyLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/UniqueEmailAdress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/Duplicatetwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/strings/WordCanBeFormed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/WordCanBeFormed.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,7 @@
   "keyToString": {
     "Application.AddBinary.executor": "Run",
     "Application.CountBinarySubstrings.executor": "Run",
+    "Application.Duplicatetwo.executor": "Debug",
     "Application.GreateLatin.executor": "Run",
     "Application.Isomorphic.executor": "Run",
     "Application.KeyWordRow.executor": "Run",
@@ -61,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveDuplicate">
+  <component name="RunManager" selected="Application.Duplicatetwo">
     <configuration name="CountBinarySubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.strings.CountBinarySubstrings" />
       <module name="ProblemS" />
@@ -75,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreateLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.strings.GreateLatin" />
+    <configuration name="Duplicatetwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.Duplicatetwo" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.strings.*" />
+          <option name="PATTERN" value="org.problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumIndexOfTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.strings.MinimumIndexOfTwoList" />
+    <configuration name="GreateLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.strings.GreateLatin" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Duplicatetwo" />
         <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.GreateLatin" />
         <item itemvalue="Application.ShortestCompletingWord" />
         <item itemvalue="Application.CountBinarySubstrings" />
-        <item itemvalue="Application.MinimumIndexOfTwoList" />
       </list>
     </recent_temporary>
   </component>
