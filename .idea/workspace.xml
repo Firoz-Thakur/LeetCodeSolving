@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="" />
+    <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/findContentChildren.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,36 +31,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddBinary.executor": "Run",
-    "Application.CountBinarySubstrings.executor": "Run",
-    "Application.Duplicatetwo.executor": "Debug",
-    "Application.FindMaxThridElement.executor": "Debug",
-    "Application.GreateLatin.executor": "Run",
-    "Application.Isomorphic.executor": "Run",
-    "Application.KeyWordRow.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MinimumIndexOfTwoList.executor": "Debug",
-    "Application.Range.executor": "Debug",
-    "Application.RemoveDuplicate.executor": "Run",
-    "Application.ReverseString3.executor": "Run",
-    "Application.ShortestCompletingWord.executor": "Run",
-    "Application.SumTwoNumbers.executor": "Run",
-    "Application.ValidPalindrom.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/i2574/Documents/testp/ProblemS",
-    "onboarding.tips.debug.path": "/home/i2574/Documents/testp/ProblemS/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountBinarySubstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplicatetwo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindMaxThridElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.GreateLatin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Isomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyWordRow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumIndexOfTwoList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Range.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RemoveDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortestCompletingWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrom.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/i2574/Documents/testp/ProblemS&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/i2574/Documents/testp/ProblemS/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.FindMaxThridElement">
     <configuration name="Duplicatetwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.Duplicatetwo" />
