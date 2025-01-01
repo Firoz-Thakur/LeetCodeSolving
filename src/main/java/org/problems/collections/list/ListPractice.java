@@ -92,13 +92,57 @@ public class ListPractice {
             System.out.println(entry.getKey() + " -> " + entry.getValue());
         }
 
+        // Adjacency list
+        Map<Integer, List<Integer>> graph = new HashMap<>();
 
+        // Add edges to the graph
+        graph.putIfAbsent(1, new ArrayList<>());
+        graph.get(1).add(2);
+        graph.get(1).add(3);
 
+        graph.putIfAbsent(2, new ArrayList<>());
+        graph.get(2).add(4);
 
+        graph.putIfAbsent(3, new ArrayList<>());
+        graph.get(3).add(4);
 
+        graph.putIfAbsent(4, new ArrayList<>());
 
-
-
+        // Print the adjacency list
+        for (Map.Entry<Integer, List<Integer>> entry : graph.entrySet()) {
+            System.out.println("Node " + entry.getKey() + " -> " + entry.getValue());
+        }
 
     }
+
+    //[2, 43]
+    //[2]
+    //[2, 545]
+    //[1000, 2, 545]
+    //[1000, 2, 545, [1000, 2, 545]]
+    //contains list : true
+    //contains list : true
+    //removed element is 1000
+    //1
+    //3
+    //[2, 545, [1000, 2, 545], 545]
+    //[2, 545, 434, 545]
+    //sorting using in build function[100, 6, 6, 5, 4, 3, 2]
+    //sorting using collection sort [2, 3, 4, 5, 6, 6, 100]
+    //[1, 3, 4, 6, 6]
+    //[1, 3, 4, 6, 6, 23434]
+    //Linked list is [2, 2323, 4, 4, 5, 4, 232, 434, 234, 6, 3, 532]
+    //updated Linked list is [2, 0, 2323, 4, 4, 5, 4, 232, 434, 234, 6, 3, 532]
+    //updated Linked list is [2, 2323, 4, 4, 5, 4, 232, 434, 234, 6, 3, 532]
+    //Binary search on Linked list is -1
+    //frequency of any object in an collections3
+    //[1, 4, 9, 16, 25]
+    //Class A -> [Alice, Bob, Eve, Firoz]
+    //Class B -> [Charlie, David]
+    //Node 1 -> [2, 3]
+    //Node 2 -> [4]
+    //Node 3 -> [4]
+    //Node 4 -> []
+    //
+    //Process finished with exit code 0
 }

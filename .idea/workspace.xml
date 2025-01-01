@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/collections/list/ListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/collections/list/MapPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/collections/list/ListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/collections/list/ListPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Application.KeyWordRow.executor": "Run",
     "Application.ListPractice.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapPractice.executor": "Run",
     "Application.MinimumIndexOfTwoList.executor": "Debug",
     "Application.Range.executor": "Debug",
     "Application.RemoveDuplicate.executor": "Run",
@@ -64,20 +65,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListPractice">
-    <configuration name="Duplicatetwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.Duplicatetwo" />
-      <module name="ProblemS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MapPractice">
     <configuration name="FindMaxThridElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.FindMaxThridElement" />
       <module name="ProblemS" />
@@ -93,6 +81,19 @@
     </configuration>
     <configuration name="ListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.collections.list.ListPractice" />
+      <module name="ProblemS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problems.collections.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.collections.list.MapPractice" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapPractice" />
         <item itemvalue="Application.ListPractice" />
         <item itemvalue="Application.FindMaxThridElement" />
         <item itemvalue="Application.MoveZero" />
         <item itemvalue="Application.Range" />
-        <item itemvalue="Application.Duplicatetwo" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +195,15 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/problems/Arrays/FindMaxThridElement.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problems/collections/list/MapPractice.java</url>
+          <line>8</line>
+          <properties class="org.problems.collections.list.MapPractice" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
