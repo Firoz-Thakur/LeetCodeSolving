@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="" />
+    <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +50,7 @@
     "Application.ReverseString3.executor": "Run",
     "Application.ShortestCompletingWord.executor": "Run",
     "Application.SumTwoNumbers.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
     "Application.ValidPalindrom.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -61,7 +65,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MapPractice">
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration name="FindMaxThridElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.FindMaxThridElement" />
       <module name="ProblemS" />
@@ -114,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.Range" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.ThreeSum" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.*" />
+          <option name="PATTERN" value="org.problems.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.MapPractice" />
         <item itemvalue="Application.ListPractice" />
         <item itemvalue="Application.FindMaxThridElement" />
         <item itemvalue="Application.MoveZero" />
-        <item itemvalue="Application.Range" />
       </list>
     </recent_temporary>
   </component>
