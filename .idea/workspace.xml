@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/StringSubset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     "Application.RemoveDuplicate.executor": "Run",
     "Application.ReverseString3.executor": "Run",
     "Application.ShortestCompletingWord.executor": "Run",
+    "Application.StringSubset.executor": "Debug",
     "Application.SumTwoNumbers.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.ValidPalindrom.executor": "Run",
@@ -65,7 +68,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.StringSubset">
     <configuration name="FindMaxThridElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.FindMaxThridElement" />
       <module name="ProblemS" />
@@ -105,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.MoveZero" />
+    <configuration name="StringSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.StringSubset" />
       <module name="ProblemS" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSubset" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.MapPractice" />
         <item itemvalue="Application.ListPractice" />
         <item itemvalue="Application.FindMaxThridElement" />
-        <item itemvalue="Application.MoveZero" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +198,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/problems/Arrays/FindMaxThridElement.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problems/Arrays/StringSubset.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/problems/collections/list/MapPractice.java</url>
