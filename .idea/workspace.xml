@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/pqueues/Pairx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/pqueues/SortStringWithFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/TestCities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +53,10 @@
     "Application.SortStringWithFrequency.executor": "Run",
     "Application.StringSubset.executor": "Debug",
     "Application.SumTwoNumbers.executor": "Run",
+    "Application.TestCities.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.ValidPalindrom.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,33 +70,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortStringWithFrequency">
-    <configuration name="ListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.collections.list.ListPractice" />
-      <module name="ProblemS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.collections.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.collections.list.MapPractice" />
-      <module name="ProblemS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.collections.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestCities">
     <configuration name="SortStringWithFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.pqueues.SortStringWithFrequency" />
       <module name="ProblemS" />
@@ -121,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.TestCities" />
+      <module name="ProblemS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.ThreeSum" />
       <module name="ProblemS" />
@@ -134,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.test" />
+      <module name="ProblemS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCities" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.SortStringWithFrequency" />
         <item itemvalue="Application.StringSubset" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.MapPractice" />
-        <item itemvalue="Application.ListPractice" />
       </list>
     </recent_temporary>
   </component>
