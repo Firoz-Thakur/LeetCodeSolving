@@ -10,9 +10,7 @@ public class FindPairs {
         maximumNumberOfStringPairs(new String[]{"cd","ac","dc","ca","zz"});
 
     }
-
     public static int maximumNumberOfStringPairs(String[] words) {
-
         Map<String , Boolean> mp = new HashMap<>();
         int count=0;
         for(String x : words)

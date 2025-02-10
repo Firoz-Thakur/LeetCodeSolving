@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c562dac-36f6-4061-ab51-567ac9a8b029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/TestCities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Arrays/FyndTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/strings/FindPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/strings/FindPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Application.CountBinarySubstrings.executor": "Run",
     "Application.Duplicatetwo.executor": "Debug",
     "Application.FindMaxThridElement.executor": "Debug",
+    "Application.FyndTest.executor": "Run",
     "Application.GreateLatin.executor": "Run",
     "Application.Isomorphic.executor": "Run",
     "Application.KeyWordRow.executor": "Run",
@@ -70,7 +70,20 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestCities">
+  <component name="RunManager" selected="Application.FyndTest">
+    <configuration name="FyndTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.FyndTest" />
+      <module name="ProblemS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problems.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortStringWithFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.pqueues.SortStringWithFrequency" />
       <module name="ProblemS" />
@@ -110,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.Arrays.ThreeSum" />
-      <module name="ProblemS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.test" />
       <module name="ProblemS" />
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FyndTest" />
         <item itemvalue="Application.TestCities" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.SortStringWithFrequency" />
         <item itemvalue="Application.StringSubset" />
-        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
